@@ -1,16 +1,84 @@
-## Hi there 👋
+# Hi 👋, I'm Harsh Choubey
 
-<!--
-**Harsh7209/Harsh7209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 DevOps Engineer | Cloud & Automation Enthusiast
 
-Here are some ideas to get you started:
+---
+## 📫 Connect With Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 💼 LinkedIn: www.linkedin.com/in/harshchoubey113
+* 📧 Email: harshchoubey113@gmail.com
+
+---
+
+## 👨‍💻 About Me
+
+* 💼 Aspiring **DevOps Engineer** actively looking for **entry-level opportunities**
+* ☁️ Hands-on experience with **AWS Cloud services**
+* 🌱 Passionate about working with **modern DevOps tools & real-world infrastructure**
+* 🔧 Strong focus on **automation, CI/CD pipelines, and scalable deployments**
+* 🚀 Continuously building and improving DevOps projects
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+### 💻 Core Skills
+
+* 🐧 Linux (System Administration & Troubleshooting)
+* 🔁 Git & GitHub (Version Control)
+* 🧾 Shell Scripting (Automation)
+* 🐍 Python (Automation & scripting)
+
+### ⚙️ DevOps & Cloud
+
+* 🐳 Docker (Containerization)
+* ☸️ Kubernetes (Container Orchestration - Basics)
+* 🏗️ Terraform (Infrastructure as Code - Basics)
+* ☁️ AWS (EC2, S3, IAM, VPC – Hands-on experience)
+
+### 📊 Monitoring & Observability
+
+* 📈 Prometheus
+* 📉 Grafana
+
+---
+
+## 🌱 Currently Improving
+
+* CI/CD Tools (Jenkins, GitHub Actions)
+* Advanced Kubernetes & Production-level Deployments
+* Infrastructure Automation at scale
+
+---
+
+
+
+---
+
+
+---
+
+## 🎯 Career Objective
+
+Motivated and detail-oriented DevOps enthusiast seeking an **entry-level DevOps Engineer role**, with hands-on experience in AWS and modern DevOps tools, aiming to contribute to building scalable, reliable, and automated infrastructure.
+
+---
+
+## 📌 What I Bring
+
+* Practical knowledge of **cloud infrastructure (AWS)**
+* Ability to **automate workflows using shell & Python**
+* Understanding of **containerization & orchestration**
+* Passion for **continuous learning and problem-solving**
+
+---
+
+
+
+## ⚡ Fun Fact
+
+I love turning complex infrastructure into **simple, automated pipelines** 🚀
+
+---
+
+⭐️ From Harsh Choubey
