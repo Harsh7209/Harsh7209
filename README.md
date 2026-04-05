@@ -32,8 +32,8 @@
 ### ⚙️ DevOps & Cloud
 
 * 🐳 Docker (Containerization)
-* ☸️ Kubernetes (Container Orchestration - Basics)
-* 🏗️ Terraform (Infrastructure as Code - Basics)
+* ☸️ Kubernetes (Container Orchestration )
+* 🏗️ Terraform (Infrastructure as Code )
 * ☁️ AWS (EC2, S3, IAM, VPC – Hands-on experience)
 
 ### 📊 Monitoring & Observability
