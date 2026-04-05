@@ -3,10 +3,7 @@
 ## 🚀 DevOps Engineer | Cloud & Automation Enthusiast
 
 ---
-## 📫 Connect With Me
 
-* 💼 LinkedIn: www.linkedin.com/in/harshchoubey113
-* 📧 Email: harshchoubey113@gmail.com
 
 ---
 
@@ -72,7 +69,10 @@ Motivated and detail-oriented DevOps enthusiast seeking an **entry-level DevOps 
 * Passion for **continuous learning and problem-solving**
 
 ---
+## 📫 Connect With Me
 
+* 💼 LinkedIn: www.linkedin.com/in/harshchoubey113
+* 📧 Email: harshchoubey113@gmail.com
 
 
 ## ⚡ Fun Fact
