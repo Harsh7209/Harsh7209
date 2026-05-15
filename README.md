@@ -43,8 +43,8 @@
 ║  Name     →  Harsh Choubey              ║
 ║  Role     →  Aspiring DevOps Engineer   ║
 ║  Status   →  🟢 Open to Opportunities   ║
-║  Focus    →  Cloud · CI/CD · Automation . DevOps ║
-║  Country  →  India 🇮🇳                   ║
+║  Focus    →  Cloud · CI/CD · Automation  ║
+║           . DevOps                       ║
 ║                                          ║
 ║  $ cat passion.txt                       ║
 ║  "Turning complex infrastructure        ║
