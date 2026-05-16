@@ -1,7 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:0d2137,100:001a10&height=200&section=header&text=Harsh%20Choubey&fontSize=75&fontColor=00ff88&animation=twinkling&fontFamily=Raleway&stroke=00d4ff&strokeWidth=2&desc=%3C%20code.create.conquer%20%2F%3E&descAlignY=72&descSize=17" />
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a1628,70:001a10,100:00ff88&height=220&section=header&text=Harsh%20Choubey&fontSize=70&fontColor=ffffff&fontAlignY=45&animation=twinkling&fontFamily=Raleway&stroke=00d4ff&strokeWidth=2&desc=%E2%9C%A6%20Developer%20%E2%80%A2%20Creator%20%E2%80%A2%20Builder%20%E2%9C%A6&descAlignY=68&descSize=18&descAlign=50" />
 <br/>
 
 # `< Harsh Choubey />`
