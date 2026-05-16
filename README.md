@@ -1,6 +1,7 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:080d12,25:001a0d,50:002a1a,75:001520,100:080d12&height=220&section=header&text=HARSH%20CHOUBEY&fontSize=72&fontColor=00ff88&fontAlignY=55&animation=fadeIn&fontFamily=Raleway&stroke=00d4ff&strokeWidth=3&desc=Developer%20%E2%97%88%20Creator%20%E2%97%88%20Builder&descAlignY=75&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:060d1a,20:0f0a2a,45:3a0ca3,70:e94560,90:ff9e00,100:f5c518&height=220&section=header&text=Harsh%20Choubey&fontSize=72&fontColor=ffffff&fontAlignY=40&animation=twinkling&fontFamily=Raleway&stroke=f5c518&strokeWidth=2&desc=✦%20DevOps%20Engineer%20·%20Cloud%20Architect%20·%20Automation%20✦&descAlignY=62&descSize=16&descAlign=50" />
+
 <br/>
 
 # `< Harsh Choubey />`
@@ -228,6 +229,6 @@
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:00d4ff,100:0d1117&height=130&section=footer&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f5c518,20:ff9e00,50:e94560,80:3a0ca3,100:060d1a&height=130&section=footer&animation=twinkling" />
 
 </div>
